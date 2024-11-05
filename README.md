@@ -28,8 +28,8 @@ The primary motivation behind this project is to combat counterfeit products and
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/product-authentication-webapp.git
-   cd product-authentication-webapp
+   git clone https://github.com/harvey-jean/pro-auth-web.git
+   cd pro-auth-web
 
 2. **Install dependencies:**:
 npm install
